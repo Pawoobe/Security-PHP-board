@@ -1,0 +1,2 @@
+AddHandler php7-script .abc
+AddType text/html .abc 

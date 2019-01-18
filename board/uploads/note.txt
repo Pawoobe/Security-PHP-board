@@ -1,0 +1,25 @@
+
+1. Directory Listing
+
+http://192.168.35.156/board/uploads/
+
+
+<p>djfidjfijdf</p>
+
+
+(1) 전부 HTML Entity로 치환.
+
+< 
+>
+"
+'
+%ltg ;df 
+
+-> 허용
+
+(2) 
+%lt;p%gt
+
+replace('<','%lt;')
+replace('>', 
+

