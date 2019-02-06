@@ -28,7 +28,7 @@ PreTEST_login_ok.php - prepared statement 로그인 처리 (미완성)
 
 #board
 
-upload - 파일 업로드시 저장되느 저장소
+upload - 파일 업로드시 저장되 저장소
 
 delete.php - 게시물 삭제 기능
 
